@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/AI/AI Engineering - OReilly - Ch1.md",
+                "file": "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Engineering - OReilly - Ch1"
+              "title": "Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/AI/AI Engineering - OReilly - Ch1.md",
+                "file": "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineering - OReilly - Ch1"
+              "title": "Backlinks for Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/AI/AI Engineering - OReilly - Ch1.md",
+                "file": "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Engineering - OReilly - Ch1"
+              "title": "Outgoing links from Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/AI/AI Engineering - OReilly - Ch1.md",
+                "file": "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Engineering - OReilly - Ch1"
+              "title": "Outline of Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231"
             }
           },
           {
@@ -197,15 +197,31 @@
   },
   "active": "4cd0ef22039d5e61",
   "lastOpenFiles": [
+    "Coding/Kubernetes",
+    "Coding/AI/AI Engineering - OReilly - Ch1.md",
+    "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
+    "Coding/Java Telusko/resources/jsondata.txt",
+    "Coding/Java Telusko/resources/image.png",
+    "Coding/Java Telusko/resources/image 204.png",
+    "Coding/Java Telusko/resources/image 203.png",
+    "Coding/Java Telusko/resources/image 202.png",
+    "Coding/Java Telusko/resources/image 201.png",
+    "Coding/Java Telusko/resources/image 200.png",
+    "Coding/Java Telusko/resources/image 199.png",
+    "Coding/Java Telusko/resources/image 198.png",
+    "Coding/Java Telusko/resources/image 197.png",
+    "Coding/Java Telusko/resources/image 196.png",
+    "Coding/Java Telusko/resources",
+    "Coding/Java Telusko/jsondata.txt",
+    "Coding/Java Telusko/ExportBlock-ef1d4f34-7246-447e-9f73-898614310789-Part-1.zip",
+    "Coding/Java Telusko",
+    "Coding/Nova pasta",
+    "Coding/ExportBlock-ef1d4f34-7246-447e-9f73-898614310789-Part-1.zip",
     "Coding/AI",
     "Coding",
     "Igreja/Estudos",
-    "Igreja",
     "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
     "Conteúdo/TikTok/100 Sugestões da IA para conteúdo curto.md",
-    "Conteúdo/TikTok",
-    "Conteúdo",
-    "Coding/AI/AI Engineering - OReilly - Ch1.md",
     "README.md"
   ]
 }
