@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/16-12-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "16-12-2025"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11c8d26534668559",
+  "active": "152ee369cf5ba7f8",
   "lastOpenFiles": [
+    "README.md",
     "Daily Notes/template.md",
     "Daily Notes/16-12-2025.md",
     "Daily Notes",
@@ -207,7 +208,6 @@
     "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
     "Conteúdo/TikTok/100 Sugestões da IA para conteúdo curto.md",
     "Conteúdo/TikTok",
-    "Conteúdo",
-    "README.md"
+    "Conteúdo"
   ]
 }
