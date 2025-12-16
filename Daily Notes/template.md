@@ -28,10 +28,3 @@ pages_version: "spiritual_stream"
 ## Tag / Link de Acompanhamento
 - Reflexão semanal: [[weekly-review-{{date:YYYY}}-W{{date:W}}]]
 - Coach context: [[coach.md]]  <!-- link para seu arquivo coach.md no vault -->
-
----
-
-## Gratidão (1–3)
-1.
-2.
-3.
