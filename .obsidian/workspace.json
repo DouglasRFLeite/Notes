@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/22-12-2025.md",
+                "file": "Daily Notes/31-12-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22-12-2025"
+              "title": "31-12-2025"
+            }
+          },
+          {
+            "id": "6e28963bb860e740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,11 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bb7d82152fc5c4d",
+  "active": "6e28963bb860e740",
   "lastOpenFiles": [
+    "Daily Notes/31-12-2025.md",
+    "Untitled.md",
+    "Tayla",
+    "Daily Notes/22-12-2025.md",
     "1-1 Rafa.md",
     "Pasted image 20251222155055.png",
-    "Daily Notes/22-12-2025.md",
     "Daily Notes/18-12-2025.md",
     "Daily Notes/template.md",
     "README.md",
