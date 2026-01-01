@@ -25,15 +25,14 @@
             "id": "41ec97e5f16fbde1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Daily Notes/01-01-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "01-01-2026"
             }
           }
         ],
@@ -212,13 +211,24 @@
   },
   "active": "41ec97e5f16fbde1",
   "lastOpenFiles": [
+    "Daily Notes/31-12-2025.md",
+    "Planejamento Q1.md",
+    "Organização/Coach26.md",
+    "Organização",
+    "Lutero.md",
+    "Heróis da Fé/Savanarola.md",
+    "Heróis da Fé/Miconcio.md",
+    "Heróis da Fé",
+    "Daily Notes/30-12-2025.md",
+    "Daily Notes/28-12-2025.md",
+    "Daily Notes/25-12-2025.md",
+    "Daily Notes/01-01-2026.md",
     "Pasted image 20251222155055.png",
     "conflict-files-obsidian-git.md",
     "Coding/AI/AI Engineering - OReilly - Ch1.md",
     "Review e Planejamento 2026.md",
     "Daily Notes/22-12-2025.md",
     "Daily Notes/template.md",
-    "Daily Notes/31-12-2025.md",
     "Daily Notes/18-12-2025.md",
     "Daily Notes/16-12-2025.md",
     "Daily Notes",
@@ -241,8 +251,6 @@
     "Coding/Java Telusko/ExportBlock-ef1d4f34-7246-447e-9f73-898614310789-Part-1.zip",
     "Coding/Java Telusko",
     "Coding/Nova pasta",
-    "Coding/ExportBlock-ef1d4f34-7246-447e-9f73-898614310789-Part-1.zip",
-    "Coding/AI",
     "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
     "Conteúdo/TikTok/100 Sugestões da IA para conteúdo curto.md",
     "README.md"
