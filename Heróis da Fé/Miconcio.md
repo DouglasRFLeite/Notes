@@ -1,0 +1,3 @@
+- Amigo de Lutero
+- Intentava ficar distante do trabalho de Lutero e apenas orar por ele 
+- O Senhor falou com ele em sonho para ajudar no apascentar das ovelhas e na ceifa 

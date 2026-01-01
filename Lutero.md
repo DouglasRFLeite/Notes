@@ -1,0 +1,18 @@
+- Alemão 
+- Pais muito simples no começo 
+- Se destacou nos estudos e foi enviado para o convento 
+- Muito dedicado, fiel e **piedoso** desde novo
+- Enquanto no convento, longe de casa, teve que mendigar o pão muitas vezes até ser acolhido por uma senhora
+- Depois disso seu pai enriqueceu ao comprar um forno de fundição (ele era minerador) e virar vereador
+- Se formou e foi feito doutor em filosofia muito cedo (21 anos)
+- Certa noite, andando numa tempestade, caiu um raio ao seu lado, ele prometeu a Sant’Ana que se sobrevivesse até em casa se tornaria monge
+- Seu pai e colegas da faculdade foram contra o monastério, mas ele foi monge agustiniano
+- Sempre muito dedicado, jejuava e orava por horas a fio a fim de pagar a penitência dos seus pecados e rogar o perdão de Deus
+- Quando conheceu pela primeira vez a Bíblia se maravilhou a ponto de perder seus compromissos eclesiásticos, por isso se martirizou e desmaiou de tanto jejuar 
+- Lhe foi dito que “o justo viverá pela fé”, mas ele só creu nisso quando, subindo de joelhos um escadaria do Vaticano, ouviu essa frase da parte de Deus o repreendendo
+- Ele retornou para a Alemanha e se tornou professor de teologia e pregador oficial da cidade
+- Após muito estudo da Palavra, chegou às 95 teses e às pregou na porta da universidade, como era de costume quando se queria gerar uma discussão (**importante:** ele não pretendia afrontar o Papa, ele queria discutir o tema e defender o Papa dos indulgentes) 
+- O Papa e a Igreja Romana o perseguiram, mas ele se escondeu no Castelo (nessa época, ele já tinha escrito Castelo Forte) e se fingiu ser o “cavaleiro Jorge” por algum tempo, sem nunca parar de escrever
+- Rejeitou o celibato de padre e se casou com uma freira, com quem foi muito feliz 
+- Morreu pregando o Evangelho, de ataque cardíaco 
+- Era um homem de extrema oração, orava pelo menos 2h todas as manhãs logo ao acordar
