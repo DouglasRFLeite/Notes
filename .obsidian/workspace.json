@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tayla/Review e Planejamento 2026.md",
+                "file": "Organização/Planejamento Q1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review e Planejamento 2026"
+              "title": "Planejamento Q1"
+            }
+          },
+          {
+            "id": "586b786dd16f6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Livros a ler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista de Livros a ler"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd0ef22039d5e61",
+  "active": "586b786dd16f6bc6",
   "lastOpenFiles": [
+    "Lista de Livros a ler.md",
+    "Organização/Planejamento Q1.md",
+    "Tayla/Review e Planejamento 2026.md",
     "Tayla",
     "README.md",
     "Reuniões Guidewire/1-1 Rafa.md",
@@ -220,7 +237,6 @@
     "Organização/Coach26.md",
     "Daily Notes/01-01-2026.md",
     "Daily Notes/31-12-2025.md",
-    "Organização/Planejamento Q1.md",
     "Organização",
     "Heróis da Fé/Lutero.md",
     "Heróis da Fé/Savanarola.md",
@@ -231,7 +247,6 @@
     "Daily Notes/25-12-2025.md",
     "conflict-files-obsidian-git.md",
     "Coding/AI/AI Engineering - OReilly - Ch1.md",
-    "Tayla/Review e Planejamento 2026.md",
     "Daily Notes/22-12-2025.md",
     "Daily Notes/template.md",
     "Daily Notes/18-12-2025.md",
@@ -252,7 +267,6 @@
     "Coding/Java Telusko/resources/image 197.png",
     "Coding/Java Telusko/resources",
     "Coding/Java Telusko/jsondata.txt",
-    "Coding/Java Telusko/ExportBlock-ef1d4f34-7246-447e-9f73-898614310789-Part-1.zip",
     "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
     "Conteúdo/TikTok/100 Sugestões da IA para conteúdo curto.md"
   ]

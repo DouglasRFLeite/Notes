@@ -13,8 +13,9 @@
 > Se passar de 3, perdeu foco.
 
 1. **Prioridade #1:**  Condicionamento físico e emagrecimento (Saúde)
-2. **Prioridade #2:**  Leitura 
-3. **Prioridade #3:**  
+2. **Prioridade #2:**  Leitura (bíblica e literária)
+3. **Prioridade #3:**  Organização do sono
+4. **Prioridade #4:**  Ciência e Fé
 
 ---
 
@@ -28,61 +29,6 @@
 
 ---
 
-## 🛰 4. Sistema Mínimo (GPS Simplificado)
-
-> Como isso acontece na vida real?
-
-### Para a Meta Principal:
-- **Ação semanal fixa:**  
-- **Frequência mínima aceitável:**  
-- **Onde isso entra na minha rotina:**  
-
-*(Se não cabe na rotina, não é meta — é desejo.)*
-
----
-
-## 🔑 5. Keystone Habits (Kaizen)
-
-> Hábitos pequenos que melhoram várias áreas.
-
-- **Hábito #1:**  
-- **Hábito #2 (opcional):**  
-
-**Regra:** nunca falhar 2 dias seguidos.
-
----
-
-## 🛑 6. NÃO AGORA (Lista de Proteção)
-
-> Tudo que conscientemente **não** entra no Q1.
-
--  
--  
--  
-
-*(Isso reduz ansiedade mais do que planejar.)*
-
----
-
-## 🧠 7. Critério Único de Decisão
-
-> Usar sempre que surgir uma nova ideia, convite ou culpa.
-
-**Pergunta-guia:**
-> Isso fortalece ou enfraquece meu foco e minhas prioridades neste trimestre?
-
----
-
-## ✅ 8. Definição de Sucesso do Q1
-
-> Q1 foi bem-sucedido se, ao final de março, eu puder dizer:
-
-> 
-
----
-
-## ✝️ 9. Entrega Final a Deus
-
-> O que não vou tentar controlar neste trimestre:
-
-> 
+* Esse trimestre eu quero estabelecer um hábito de exercício físico constante. Talvez seja muito mais fácil estabelecer depois que nos mudarmos.
+* Esse trimestre eu quero desenvolver um hábito de leitura frequente, não necessariamente intensa. Essa é a lista de livros que pretendo ler esse ano, começando esse semestre:
+	* [[Lista de Livros a ler]]
