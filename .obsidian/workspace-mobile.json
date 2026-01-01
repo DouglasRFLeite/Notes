@@ -11,10 +11,14 @@
             "id": "b45d4f993c9f0ec8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/16-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "16-12-2025"
             }
           }
         ]
@@ -163,6 +167,15 @@
   },
   "active": "b45d4f993c9f0ec8",
   "lastOpenFiles": [
+    "Daily Notes/template.md",
+    "Daily Notes/16-12-2025.md",
+    "Daily Notes",
+    "Coding/AI/AI Engineering - OReilly - Ch1.md",
+    "Coding/AI",
+    "Coding",
+    "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
+    "Igreja/Estudos",
+    "Igreja",
     "README.md"
   ]
 }
