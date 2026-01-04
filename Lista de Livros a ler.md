@@ -2,7 +2,7 @@
 
 ### Trilho A - Leitura leve diária
 * Bíblia
-* Meditações (Marco Aurélio)
+* [[Meditações]] (Marco Aurélio)
 
 ### Trilho B - Leitura Principal Intelectual / Espiritual
 * Heróis da Fé - Orlando Boyer

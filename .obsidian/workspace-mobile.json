@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planejamento Q1.md",
+                "file": "Meditações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento Q1"
+              "title": "Meditações"
+            }
+          },
+          {
+            "id": "39554dd2dda6b83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditações.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meditações"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,28 +250,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ba3c907327d3c5c",
+  "active": "39554dd2dda6b83f",
   "lastOpenFiles": [
+    "Daily Notes/02-01-2026.md",
+    "Meditações.md",
+    "Daily Notes/template.md",
+    "Lista de Livros a ler.md",
+    "Organização/Planejamento Q1.md",
     "Daily Notes/01-01-2026.md",
+    "Planejamento Q1.md",
+    "Daily Notes/22-12-2025.md",
+    "Daily Notes/18-12-2025.md",
+    "Daily Notes/31-12-2025.md",
+    "Heróis da Fé/Lutero.md",
+    "Reuniões Guidewire/resources/Pasted image 20251222155055.png",
+    "Reuniões Guidewire/1-1 Rafa.md",
+    "Reuniões Guidewire/resources",
+    "Reuniões Guidewire",
+    "Tayla/Review e Planejamento 2026.md",
+    "Tayla",
+    "Coding/Java Telusko/resources/image 150.png",
+    "Coding/Java Telusko/resources/image 144.png",
+    "Coding/Java Telusko/resources/image 178.png",
+    "Coding/Java Telusko/resources/image 3.png",
+    "Coding/Java Telusko/resources/image 193.png",
+    "Coding/Java Telusko/resources/image 26.png",
+    "Coding/Java Telusko/resources/image 187.png",
+    "Coding/Java Telusko/resources/image 32.png",
+    "Coding/Java Telusko/resources/image 33.png",
+    "Coding/Java Telusko/resources/jsondata.txt",
+    "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
+    "Coding/Java Telusko/resources",
+    "Coding/Java Telusko",
     "Lutero.md",
     "Daily Notes/30-12-2025.md",
     "Heróis da Fé/Miconcio.md",
     "Heróis da Fé/Savanarola.md",
-    "Planejamento Q1.md",
     "Daily Notes/28-12-2025.md",
     "Heróis da Fé",
     "Organização/Coach26.md",
     "Organização",
     "Daily Notes/25-12-2025.md",
     "Daily Notes/16-12-2025.md",
-    "Daily Notes/template.md",
     "Daily Notes",
     "Coding/AI/AI Engineering - OReilly - Ch1.md",
     "Coding/AI",
-    "Coding",
     "Igreja/Estudos/Seminário de Obreiros 13-12-25.md",
-    "Igreja/Estudos",
-    "Igreja",
     "README.md"
   ]
 }
