@@ -18,7 +18,7 @@
 - A Democracia na América – Tocqueville (leitura seletiva)
 
 ### Trilho C - Ficção
-* A Revolução dos Bichos
+* A Revolução dos Bichos ✅
 - O Pequeno Príncipe
 - O Velho e o Mar
 - Cartas de um Diabo a Seu Aprendiz
