@@ -1,0 +1,11 @@
+- Italiano
+- Pais mundanos, queriam que fosse médico 
+- Se converteu lendo Tomás de Aquino
+- Desenganou-se no amor após um relacionamento falido 
+- Foi monge
+- Começou a pregar no mosteiro
+- Certa vez teve uma visão da Grande Tribulação e começou a apregoar o arrependimento cheio do Espírito Santo 
+- Pregava sobre aquilo que Deus faria ao mundo
+- Muitos se revoltaram com a pregação, inclusive o rei da Itália na época 
+- Foi excomungado e queimado 
+- Falhou em pregar erros da Igreja Romana, mas entendia o Evangelho
