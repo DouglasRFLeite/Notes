@@ -1,0 +1,1 @@
+**Nódoas** são manchas ou marcas deixadas por substâncias sujas (como café, vinho, gordura, sangue) ou, em sentido figurado, desonras ou má reputação

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 João.md",
+                "file": "2 Pedro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 João"
+              "title": "2 Pedro"
             }
           }
         ],
@@ -211,10 +211,14 @@
   },
   "active": "ab8af9c7787f22d9",
   "lastOpenFiles": [
-    "Caminho de Caim.md",
     "1 João.md",
-    "3 João.md",
+    "2 Pedro.md",
+    "Engodo.md",
+    "Prêmio de Balaão.md",
     "Judas.md",
+    "3 João.md",
+    "Nódoas.md",
+    "Caminho de Caim.md",
     "Organização/Planejamento Q1.md",
     "Organização/Coach26.md",
     "Organização/Coach25.md",
@@ -239,10 +243,6 @@
     "Heróis da Fé/Miconcio.md",
     "Heróis da Fé",
     "Daily Notes/30-12-2025.md",
-    "Daily Notes/28-12-2025.md",
-    "Daily Notes/25-12-2025.md",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/22-12-2025.md",
     "Daily Notes",
     "Untitled.canvas",
     "Coding/Kubernetes",

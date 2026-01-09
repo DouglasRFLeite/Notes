@@ -3,7 +3,7 @@
 * "destruiu depois os que não creram"
 * Miguel não ousou pronunciar maldição ao adversário
 	* "O Senhor te repreenda"
-* [[Caminho de Caim]], Engando do Prêmio de Balaão, Contradição de Coré
+* [[Caminho de Caim]], Engando do [[Prêmio de Balaão]], Contradição de Coré
 * "Apascentando-se a si mesmos sem temor"
 * **Menção ao livro de Enoque**
 	* Citar uma obra não significa torná-la canônica. Os autores bíblicos frequentemente referenciavam outras fontes (como Paulo citando poetas gregos) sem considerá-las Escritura inspirada. O Livro de Enoque não atendia aos critérios de canonicidade estabelecidos pelas primeiras comunidades cristãs (como autoria apostólica e aceitação generalizada), embora Judas o tenha usado para ilustrar um ponto teológico específico. (*CLAUDE*)

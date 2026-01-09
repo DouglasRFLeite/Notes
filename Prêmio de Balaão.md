@@ -1,0 +1,1 @@
+O prêmio de Balaão, ou o seu caminho, é o da avareza, do dinheiro, do profetizar por recursos financeiros, do vender a Obra do Senhor nas nossas vidas.
