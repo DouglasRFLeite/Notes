@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2 Pedro"
             }
+          },
+          {
+            "id": "4edabb3b61f99f75",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab8af9c7787f22d9",
+  "active": "4edabb3b61f99f75",
   "lastOpenFiles": [
-    "1 João.md",
+    "conflict-files-obsidian-git.md",
     "2 Pedro.md",
+    "YoutubeVideos/it took me 10 years to realize this what i'm about to tell you in 7 minutes and 44 seconds..md",
+    "YoutubeVideos",
+    "Daily Notes/08-01-2026.md",
+    "1 João.md",
     "Engodo.md",
     "Prêmio de Balaão.md",
     "Judas.md",
@@ -239,10 +257,7 @@
     "Daily Notes/31-12-2025.md",
     "Organização",
     "Heróis da Fé/Lutero.md",
-    "Heróis da Fé/Savanarola.md",
-    "Heróis da Fé/Miconcio.md",
     "Heróis da Fé",
-    "Daily Notes/30-12-2025.md",
     "Daily Notes",
     "Untitled.canvas",
     "Coding/Kubernetes",
@@ -256,7 +271,6 @@
     "Coding/Java Telusko/resources/image 199.png",
     "Coding/Java Telusko/resources/image 198.png",
     "Coding/Java Telusko/resources/image 197.png",
-    "Coding/Java Telusko/resources",
-    "Coding/Java Telusko/jsondata.txt"
+    "Coding/Java Telusko/resources"
   ]
 }
