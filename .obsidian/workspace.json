@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "2 Pedro"
             }
-          },
-          {
-            "id": "4edabb3b61f99f75",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edabb3b61f99f75",
+  "active": "11c8d26534668559",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2 Pedro.md",
