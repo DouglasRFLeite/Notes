@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d88cb1ef4d878f",
+        "id": "1446feaa3b7b787c",
         "type": "tabs",
         "children": [
           {
-            "id": "42daf2d93a502cba",
+            "id": "19f4108b3ab69aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização/Planejamento Q1.md",
+                "file": "Daily Notes/12-01-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento Q1"
-            }
-          },
-          {
-            "id": "ab8af9c7787f22d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Pedro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 Pedro"
+              "title": "12-01-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,24 +194,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11c8d26534668559",
+  "active": "19f4108b3ab69aba",
   "lastOpenFiles": [
+    "Biblia/1 Pedro.md",
+    "Daily Notes/12-01-2026.md",
+    "Biblia/Judas.md",
+    "Biblia/Engodo.md",
+    "Biblia/1 João.md",
+    "Biblia/Caminho de Caim.md",
+    "Biblia/2 Pedro.md",
+    "Biblia",
     "conflict-files-obsidian-git.md",
-    "2 Pedro.md",
     "YoutubeVideos/it took me 10 years to realize this what i'm about to tell you in 7 minutes and 44 seconds..md",
     "YoutubeVideos",
     "Daily Notes/08-01-2026.md",
-    "1 João.md",
-    "Engodo.md",
-    "Prêmio de Balaão.md",
-    "Judas.md",
-    "3 João.md",
-    "Nódoas.md",
-    "Caminho de Caim.md",
+    "Biblia/Prêmio de Balaão.md",
+    "Biblia/3 João.md",
+    "Biblia/Nódoas.md",
     "Organização/Planejamento Q1.md",
     "Organização/Coach26.md",
     "Organização/Coach25.md",
-    "2 João.md",
+    "Biblia/2 João.md",
     "Daily Notes/04-01-2026.md",
     "Meditações.md",
     "Daily Notes/02-01-2026.md",
@@ -240,9 +228,7 @@
     "Reuniões Guidewire/resources/Pasted image 20251222155055.png",
     "Reuniões Guidewire",
     "Daily Notes/01-01-2026.md",
-    "Daily Notes/31-12-2025.md",
     "Organização",
-    "Heróis da Fé/Lutero.md",
     "Heróis da Fé",
     "Daily Notes",
     "Untitled.canvas",
@@ -256,7 +242,6 @@
     "Coding/Java Telusko/resources/image 200.png",
     "Coding/Java Telusko/resources/image 199.png",
     "Coding/Java Telusko/resources/image 198.png",
-    "Coding/Java Telusko/resources/image 197.png",
-    "Coding/Java Telusko/resources"
+    "Coding/Java Telusko/resources/image 197.png"
   ]
 }
