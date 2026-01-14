@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biblia/Tiago.md",
+                "file": "Biblia/Hebreus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiago"
-            }
-          },
-          {
-            "id": "6d5e26f2dffeac2b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Hebreus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5e26f2dffeac2b",
+  "active": "d8302bc7da99c530",
   "lastOpenFiles": [
-    "Biblia/2 Pedro.md",
     "Biblia/Tiago.md",
+    "Biblia/Hebreus.md",
+    "Biblia/2 Pedro.md",
     "Daily Notes/13-01-2026.md",
     "Biblia/1 Pedro.md",
     "Daily Notes/12-01-2026.md",
@@ -236,7 +224,6 @@
     "Daily Notes/02-01-2026.md",
     "Coding/AI/AI Engineering - OReilly - Ch1.md",
     "Lista de Livros a ler.md",
-    "Tayla/Review e Planejamento 2026.md",
     "Tayla",
     "Reuniões Guidewire/resources",
     "Reuniões Guidewire/resources/Pasted image 20251222155055.png",
