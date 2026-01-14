@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tiago"
             }
+          },
+          {
+            "id": "6d5e26f2dffeac2b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8302bc7da99c530",
+  "active": "6d5e26f2dffeac2b",
   "lastOpenFiles": [
     "Biblia/2 Pedro.md",
     "Biblia/Tiago.md",
