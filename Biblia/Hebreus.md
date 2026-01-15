@@ -14,3 +14,21 @@
 - ¹⁸ Porque naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados. 
 
 ### 3
+* Jesus = Apóstolo e Sumo Sacerdote da nossa confissão
+* Devemos guardar a ousadia e a exaltação da esperança 
+* ⁷ Assim, pois, como diz o Espírito Santo: Hoje, se ouvirdes a sua voz, não endureçais o vosso coração 
+* "exortai-vos mutuamente cada dia"
+* ¹⁹ Vemos, pois, que não puderam entrar por causa da incredulidade. 
+
+### 4
+- "resta um repouso para o povo de Deus" - o povo no deserto não ouviu, desobedeceu, e por isso não recebeu o descanso, por isso também novamente o Pai nos deu uma oportunidade de ouvir a Sua voz a fim de encontrar descanso, como Ele também encontrou ao 7o dia
+- ¹² Porque a palavra de Deus é viva, e eficaz, e mais cortante do que qualquer espada de dois gumes, e penetra até ao ponto de dividir alma e espírito, juntas e medulas, e é apta para discernir os pensamentos e propósitos do coração.
+- ¹³ E não há criatura que não seja manifesta na sua presença; pelo contrário, todas as coisas estão descobertas e patentes aos olhos daquele a quem temos de prestar contas. 
+- ¹⁵ Porque não temos sumo sacerdote que não possa compadecer-se das nossas fraquezas; antes, foi ele tentado em todas as coisas, à nossa semelhança, mas sem pecado.
+- ¹⁶ Acheguemo-nos, portanto, confiadamente, junto ao trono da graça, a fim de recebermos misericórdia e acharmos graça para socorro em ocasião oportuna. 
+
+### 5
+- Cristo não se exaltou, mas foi glorificado pelo Pai como nosso sumo sacerdote pela [[Ordem de Melquisedeque]], tendo sido aperfeiçoado pelos sofrimentos e se feito Autor da salvação na Vitória
+- Como nosso sacerdote, se compadece de nós e intercede pelo Seu povo
+- Devemos buscar o alimento sólido, e não apenas o leite que alimenta as crianças
+
