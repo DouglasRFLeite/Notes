@@ -32,3 +32,13 @@
 - Como nosso sacerdote, se compadece de nós e intercede pelo Seu povo
 - Devemos buscar o alimento sólido, e não apenas o leite que alimenta as crianças
 
+### 6
+- O autor nos orienta a deixar a doutrina rudimentar, não no sentido de abandoná-la, entendo, mas no sentido de nos aprofundarmos cada vez mais em Cristo
+- É impossível aos que foram participantes no Espírito caírem e novamente retornarem
+- "Deus não é injusto para se esquecer da vossa obra"
+
+### 7
+- Novamente é citada a [[Ordem de Melquisedeque]], a qual Jesus e ainda os levitas se fazem pertencentes
+- ⁷ Ora, sem contradição alguma, o menor é abençoado pelo maior. 
+- ¹¹ De sorte que, se a perfeição fosse pelo sacerdócio levítico (porque sob ele o povo recebeu a lei), que necessidade havia mais de que outro sacerdote se levantasse, segundo a ordem de Melquisedeque, e não fosse chamado segundo a ordem de Arão? 
+- 
