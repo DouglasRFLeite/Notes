@@ -11,13 +11,32 @@
             "id": "b2399b6e9a1e66bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/23-01-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "23-01-2026"
+            }
+          },
+          {
+            "id": "bc439d8d139b7810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preethi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preethi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2399b6e9a1e66bf",
+  "active": "bc439d8d139b7810",
   "lastOpenFiles": [
+    "Daily Notes/23-01-2026.md",
+    "Preethi.md",
     "Daily Notes/22-12-2025.md",
     "Daily Notes/31-12-2025.md",
     "YoutubeVideos/it took me 10 years to realize this what i'm about to tell you in 7 minutes and 44 seconds..md",
@@ -222,7 +243,6 @@
     "Daily Notes/25-12-2025.md",
     "Daily Notes/04-01-2026.md",
     "Daily Notes/02-01-2026.md",
-    "Daily Notes/01-01-2026.md",
     "Coding/Java Telusko/resources/jsondata.txt",
     "Coding/Java Telusko/resources/image.png",
     "Coding/Java Telusko/resources/image 99.png",
@@ -234,7 +254,6 @@
     "Coding/Java Telusko/resources/image 93.png",
     "Coding/Java Telusko/resources/image 92.png",
     "Coding/Java Telusko/resources",
-    "Coding/Java Telusko/Curso - Java All in One 48 1219576cff4c817da1ede0bbd267a231.md",
     "Coding/Java Telusko",
     "Tayla",
     "Daily Notes"
