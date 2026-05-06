@@ -48,17 +48,17 @@ Caso haja uma falha na etapa de Envio, as outras transações serão "desfeitas"
 
 **Quando usar / quando não usar:**
 A estratégia SAGA deve ser usada para processos 2PC-Two Partition Commit, ou seja, processos que a conclusão é dividida em duas ou mais partes que teriam que ser desfeitas individualmente.
-Não é necessário usar SAGA quando a transação é única
+Não é necessário usar SAGA quando a transação é única, resolvida inteiramente em uma única transação que possa ser desfeita de forma mais simples com rollback.
 
 **Pegadinha ou trade-off:**
-
+As contramedidas não são um rollback, então via de regra "sobram" efeitos colaterais da transação inicial como um email enviado ou um registro na conta bancária do usuário.
 
 ---
 
 ## 3) Circuit Breaker
 
 **O que é (1-2 frases):**
-
+Circuit Breaker é um mecanismo utilizado como wrapper de requests feitos pela aplicação. Funciona semelhante a um cir
 
 **Que problema resolve:**
 
