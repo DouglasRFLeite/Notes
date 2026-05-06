@@ -58,16 +58,16 @@ As contramedidas não são um rollback, então via de regra "sobram" efeitos col
 ## 3) Circuit Breaker
 
 **O que é (1-2 frases):**
-Circuit Breaker é um mecanismo utilizado como wrapper de requests feitos pela aplicação. Funciona semelhante a um cir
+Circuit Breaker é um mecanismo utilizado como wrapper de requests feitos pela aplicação. Funciona semelhante a um circuito elétrico, interrompendo temporariamente tentativas de conexão que estejam falhando e atrapalhando a performance do resto do sistema.
 
 **Que problema resolve:**
-
+Em geral incluimos estratégias de retry e time-out em requests para que não se tornem bloqueantes. Contudo, mesmo com essas estratégias, se as requests são muito comuns, muitas threads podem ficar bloqueadas esperando o time-out quando o serviço externo está constantemente falhando. Isso, pareado com os retrys, pode se tornar um blocker na aplicação.
 
 **Como funciona / como se implementa:**
-
+O Circuit Breaker funciona de forma semelhante a circuito elétrico. Quando percebe que a chamada de API está falhando com frequência ele interrompe o funcionamento daquela chamada, retornando falha automática sem bloquear a thread (estádo OPEN). Após algum tempo, o Circuit Breaker restaura parcialmente o funcionamento das chamadas, permitindo a execução de uma parcela delas e analisando o resultado (estado SEMI-CLOSED). Quando percebe que o sistema externo voltou a funcionar, o Circuit Breaker restaura o funcionamento da chamada (estado CLOSED).
 
 **Quando usar / quando não usar:**
-
+O Circuit Breaker faz sentido quando o 
 
 **Pegadinha ou trade-off:**
 
