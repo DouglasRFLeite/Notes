@@ -67,29 +67,32 @@ Em geral incluimos estratégias de retry e time-out em requests para que não se
 O Circuit Breaker funciona de forma semelhante a circuito elétrico. Quando percebe que a chamada de API está falhando com frequência ele interrompe o funcionamento daquela chamada, retornando falha automática sem bloquear a thread (estádo OPEN). Após algum tempo, o Circuit Breaker restaura parcialmente o funcionamento das chamadas, permitindo a execução de uma parcela delas e analisando o resultado (estado SEMI-CLOSED). Quando percebe que o sistema externo voltou a funcionar, o Circuit Breaker restaura o funcionamento da chamada (estado CLOSED).
 
 **Quando usar / quando não usar:**
-O Circuit Breaker faz sentido quando o 
+O Circuit Breaker faz sentido quando uma chamada de API a um sistema externo é feita com frequência pela nossa aplicação, algo que poderia causar um grande problema de performance caso o serviço externo caia.
+Talvez não haja necessidade de usar uma estratégia como essa para chamadas de API pouco frequentes, ou nas quais o time-out já é naturalmente muito curto.
 
 **Pegadinha ou trade-off:**
-
+É necessário saber falhar a chamada. O resto da aplicação, quem "trigga" a chamada de API deve estar preparada para a falha criada pelo Circuit Breaker.
 
 ---
 
 ## 4) Kafka vs outros MQ
 
 **O que é (1-2 frases):**
-
+O Kafka difere dos MQs tradicionais pois não é exatamente um MQ broker, e sim um sistema de logging. Em geral, as transações no Kafka são armazenadas como logs, não necessariamente transportadas como pacotes.
 
 **Que problema resolve:**
-
+Todo sistema de mensageria vem com o propósito de atender a necessidade de comunicação assíncrona, mais resiliente e consistente (em troca, em geral, de um gasto maior de recursos).
 
 **Como funciona / como se implementa:**
-
+O Kafka adiciona todas as mensagens em uma espécie de arquivo de logs, de onde as outras aplicações podem ler e onde elas identificam a mudança por um offset. Portanto, nem sempre as mensagens são removidas, apresentando uma maior facilidade de entrega para múltiplos ouvintes e também de "replay" do stream de mensagens.
+As outras MQs em geral funcionam mais como uma fila de fato, em que a mensagem entra e é retirada pelo ouvinte quando a recebe.
 
 **Quando usar / quando não usar:**
-
+Kafka faz mais sentido quando as mensagens serão lidas por múltiplos ouvintes ou quando pode ser necessário revisitar o stream de mensagens anteriores.
+Para casos em que apenas um ouvinte lerá cada tópico e retirará obrigatoriamente a mensagem da fila, bem como casos em que não será necessário revisitar as mensagens antigas, o Kafka notoriamente trás uma complexidade maior, fazendo mais sentido utilizar MQs tradicionais. 
 
 **Pegadinha ou trade-off:**
-
+Não é 100% correto chamar o Kafka de uma MessageQueue, porque na verdade ele funciona como um logging system.
 
 ---
 
