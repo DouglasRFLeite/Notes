@@ -8,7 +8,7 @@ Idempotency is the property of an application - or, rather, an API Endpoint - th
 
 Example:
 
-PUT {userName: "Douglas"} -> If the user doesn't exit, create it. If it does, update it's name to "Douglas". That means that if I repeat this call once or 1000 times, the result will be one user in the database with the name "Douglas"
+PUT {userName: "Douglas"} -> If the user doesn't exist, create it. If it does, update it's name to "Douglas". That means that if I repeat this call once or 1000 times, the result will be one user in the database with the name "Douglas"
 
 POST {userName: "Douglas"} -> Create an user with the name "Douglas". If I run this once I'll have 1 Douglas. If I run it 1000 times I'll have a thousand.
 
@@ -69,7 +69,21 @@ This first implementation is the choreography. It works well for a smaller numbe
 
 An orchestrator would manage all of the steps instead of leaving it to the actors themselves. The CreateOrderSuccess message would be sent to the Orchestrator, and then it would trigger the PaymentSystem, and so on. On the InventoryFail, it would trigger the Orchestrator who would simultaneously trigger the compensations from Payment and CreateOrder. 
 
-Yes, this can stablish the SPOF issue again. But unlike the 2PC Strategy, it's able to do things in 
+Yes, this can stablish the SPOF issue again. But unlike the 2PC Strategy, it's able to do things in a non-blocking way without turning everything into a choreographic spaghetti. 
+
+---
+## Circuit Breaker (and the "Resilience Stack")
+
+> *"How do you add resilience to your API Calls?"*
+> At the time, the only thing I could think of where the `@CircuitBreaker` I saw annotated all over THD's API Calls, so I said that, but I didn't really know what it meant.
+
+A Circuit Breaker is something you wrap around your most frequent API Calls to make it more resilient. So this block will be split into what this is (because I think it has the fancier and less clear name) and how it fits into the rest of the "Resilience Stack".
+
+**Circuit Breaker Definition**
+
+
+
+
 
 
 
