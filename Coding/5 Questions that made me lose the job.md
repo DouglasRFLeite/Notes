@@ -81,9 +81,55 @@ A Circuit Breaker is something you wrap around your most frequent API Calls to m
 
 **Circuit Breaker Definition**
 
+The idea of the Circuit Breaker comes from electricity: if you open (or break) an electric circuit, it will stop flowing with energy.
 
+Imagine you have an API call to Open Weather (just an example). It usually takes around 5ms, but sometimes takes up to 200ms. You set a timeout for 500ms just to be safe. Than the service goes down. Every time you try and reach that API your will wait for 500ms before realizing it fails.
 
+Now imagine you call them every 100ms. At one point, all of your available threads are waiting for Open Weather to never respond. Your system crashes. 
 
+The Circuit Breaker stops that flow by saying "Oh, that's down, let me stop trying". It works in 3 stages:
+
+CLOSED -> Everything works normally. If >50% (or any other threshold) of the calls fail, it opens the circuit
+OPEN -> Open circuit, the API Call is not even attempted anymore. The client just receives an instant error message
+HALF-OPEN -> After some time, the Circuit Breaker lets a few messages pass and test what happens. Depending on the situation, it goes back to either OPEN or CLOSED
+
+In the end, this is a good way not to leave your threads stuck trying to hit a down system. But this isn't enough, is it? It's just part of the:
+
+**Resilience Stack**
+
+This is what really answers the question of *"How do you add resilience to your API Calls?"*:
+
+1. **Timeout** - An API Call without a timeout is just a bug. It shouldn't even exist. Whenever you try to hit another endpoint, anything can happen, and you never want to leave your application hanging waiting for the other one. Add a timeout, a limit amount of time for your app to wait
+2. **Retry** - Another one that sounds pretty obvious but needs saying. If you fail calling an API once, you might as well try again. And again. Maybe not the fourth time. Add a retry policy to your API Calls.
+3. **Circuit Breaker** - This is where our friend comes in. Timeouts and Retries are awesome, but if the other system is down, they could still leave you hanging for a long time. 
+4. **Bulkhead** - This is another one I hadn't heard much about before. Delegate a thread pool for each service: if you have 5 threads on service A and 10 in service B, even if service A gets stuck for any reason, B will continue to run as usual. 
+5. **Fallback** - The last resource. If nothing works, control what it means to go wrong: null, exception, default value, user message, you name it. But name it.
+
+They don't look so frightening one by one, but together they do real work to add resilience to your API Calls. 
+
+---
+## Apache Kafka vs. Message Queues
+
+> *"Why did you choose to use Kafka instead of any other Message Queue?"*
+> This one took my sleep away for a couple days...
+
+Baffle yourself: Apache Kafka is not a Message Queue. I hope you knew that one before anyone asked you that question in an interview. I didn't. 
+
+The default architecture of a Message Queue is a structure where things come in and things come out FIFO (First-In-First-Out), just as a real queue, as a real line. It works well to deliver messages between two parties, specially if you'll never need those messages again. 
+
+You can also use Kafka for things like that, but it's different. Kafka is actually a distributed commit log, an event streaming platform. Instead of just delivering things, it writes every event into a sort of log file where they can be read from. 
+
+Reading happens with offset, so multiple parties can get that same message. It also doesn't remove the message from the log as soon as it's read, rather, it has an expiration date for every piece of data. Because of that, you can natively replay all of the communication that ran through Kafka over a certain time. 
+
+Both look similar and fulfil similar purposes, but Kafka makes more sense if you need it to do what it does best: deliver the message to multiple people and keep it stored for longer. If you just want it delivered from A to B, traditional MQs will serve you better and with less unnecessary complexity.
+
+**Bonus: SQS**
+
+I don't want to go to deep here, but on that interview I threw the name "SQS" there just so they though I knew something about it. I realized later I didn't. 
+
+AWS SQS is closer to a standard MQ but with a few differences. Two I think are the most interesting are the inability to push a message (it's just polled) and the fact that it's not read exactly-once by default, but at-least-once by default, because of the way it only deletes the message when the consumer asks it too. If the first consumer takes to long to ack the SQS, a second consumer may actually find the message there.
+
+It's also interesting how we could pair SQS with SNS to get something closer to what Kafka does to communicate multiple parties. But I don't want to go so deep into that now. 
 
 
 
