@@ -67,4 +67,10 @@ Obviously when I say "message" you should read that it adds a message to a queue
 
 This first implementation is the choreography. It works well for a smaller number of actors and a small number of possible interactions. Once we start having multiple possibilities it makes more sense to give the decision power to an **orchestrator**.
 
+An orchestrator would manage all of the steps instead of leaving it to the actors themselves. The CreateOrderSuccess message would be sent to the Orchestrator, and then it would trigger the PaymentSystem, and so on. On the InventoryFail, it would trigger the Orchestrator who would simultaneously trigger the compensations from Payment and CreateOrder. 
+
+Yes, this can stablish the SPOF issue again. But unlike the 2PC Strategy, it's able to do things in 
+
+
+
 
